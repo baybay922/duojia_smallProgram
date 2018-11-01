@@ -1,0 +1,5 @@
+<!--pages/index/index.wxml-->
+
+<view>
+    <navBar class="navContainer" id="navBar"></navBar>
+</view>

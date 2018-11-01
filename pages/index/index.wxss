@@ -1,0 +1,6 @@
+/* pages/index/index.wxss */
+.navContainer{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}

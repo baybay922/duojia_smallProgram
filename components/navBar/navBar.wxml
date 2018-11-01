@@ -1,0 +1,10 @@
+<!--components/navBar/navBar.wxml-->
+<view class='navBar-wrapper'>
+  <view class='navBar-list'>
+    <view class='home'></view>
+    <view class='server'></view>
+    <view class='working'></view>
+    <view class='message'></view>
+    <view class='mine'></view>
+  </view>
+</view>

@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "components/navBar/navBar"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#1d1d28",
+    "navigationBarTitleText": "多＋",
+    "navigationBarTextStyle": "#fff"
+  },
+  "subpackages": [
+    {
+      "root": "pages/duojia/",
+      "pages": [
+        "software/software"
+      ]
+    }
+  ]
+  
+}

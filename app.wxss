@@ -1,0 +1,18 @@
+/* 
+  全局样式
+  避免代码重复，节约开发成本
+*/
+page{
+  width: 100%;
+  height: 100%;
+  background: #1d1d28;
+}
+.gradient{
+  height: 88rpx;
+  line-height: 88rpx;
+  text-align: center;
+  color: #fff;
+  font-size: 34rpx;
+  background-image: linear-gradient(-135deg, #2CBB86 0%, #2CBB55 100%);
+  border-radius: 100px;
+}
